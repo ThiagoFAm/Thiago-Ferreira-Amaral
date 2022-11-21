@@ -1,0 +1,16 @@
+RESUMO EM TXT DOS LANÇAMENTOS
+
+Nº  FUNCIONARIO             SALARIO  PORC          REAJUSTE  VLOR FINAL
+=======================================================================
+
+1 - Thaigo                  1096.00  50%            548.00      1644.00
+
+RESUMO DE IMPACTO NA FOLHA DE PAGAMENTO 
+
+=======================================================================
+
+Valor da folha de pagamento.....: R$ 1.096,00
+Valor de Reajuste...............: R$ 548,00
+Valor da nova Folha de Pagamento: R$ 1.644,00
+
+=======================================================================
